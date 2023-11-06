@@ -1,0 +1,6 @@
+INDEX VERSION 1.134+C:\Users\KAAN\Desktop\SpringBOOT\.metadata\.plugins\org.eclipse.jdt.core
+3079332467.index
+867036111.index
+1865797976.index
+3022968916.index
+3736351263.index
